@@ -34,7 +34,8 @@ header{
 
 }
 .carousel-inner {
-    height: 800px;
+    width: 100%;
+    height: auto;
 }
 .carousel-item img {
     height: 100%;
@@ -65,7 +66,7 @@ header{
     background-color: #2a99ab !important;
 }
 .card-header i{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
 }
 
 /* seccion destacados */
@@ -74,6 +75,7 @@ header{
 }
 #card-container-destacados{
     width: 100%;
+    margin: 0 !important;
     gap: 32px;
     display: flex;
     justify-content: space-between;
@@ -94,4 +96,27 @@ header{
 }
 .card-img-custom {
     height: 200px !important; /*  altura fija para que tengan el mismo tama;o*/
+}
+
+.textarea-form-custom{
+    height: 240px;
+}
+#btn-custom {
+    background-color: #2a99ab;
+    color: #ffffff;
+}
+
+#footer{
+    background-color: #2a99ab;
+    display: flex;
+    height: 80px;
+    justify-content: space-around;
+    align-items: center;
+}
+.text-footer{
+    font-size: 1.5rem;
+}
+.container-icons-footer i{
+    font-size: 1.5rem;
+    padding: 0 4px;
 }
