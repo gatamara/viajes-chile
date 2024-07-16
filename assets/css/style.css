@@ -13,8 +13,10 @@ body{
     font-family: 'Segoe UI', Tahoma, sans-serif;
     color: var(--blanco) !important;
     background-color: var(--negro) !important;
-} 
+}
 
+
+/* seccion header- navbar y carrousel */
 header{
     position: relative;
 }
@@ -39,12 +41,15 @@ header{
     width: 100%;
     object-fit: cover;
 }
-.title-section-one{
+
+/* seccion quienes somos */
+.title-section-quienesSomos{
     font-size: 1.7rem;
     padding: 32px;
     text-transform: uppercase;
 }
 .container-card{
+    margin: 0 !important;
     gap: 20px;
 
 }
@@ -52,7 +57,7 @@ header{
     margin: 0 ;
     padding: 0 ;
     border-radius: 0;
-    max-width: 400px;
+    max-width: 430px;
     background-color: #000000;
     color: #ffffff;
 }
@@ -61,4 +66,32 @@ header{
 }
 .card-header i{
     font-size: 1.2rem;
+}
+
+/* seccion destacados */
+#destacados{
+    width: 100%;   
+}
+#card-container-destacados{
+    width: 100%;
+    gap: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-section-destacados{
+    font-size: 1.7rem;
+    padding: 32px;
+    text-transform: uppercase;
+
+}
+.card-destacados{
+    background-color: #2a99ab !important;
+    color: #ffffff !important;
+    width: 300px !important;
+    padding: 0 !important;
+    
+}
+.card-img-custom {
+    height: 200px !important; /*  altura fija para que tengan el mismo tama;o*/
 }
