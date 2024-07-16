@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --celeste: #2a99ab;
+    --negro: #000000;
+    --blanco: #ffffff;
+}
+
+body{
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    color: var(--blanco) !important;
+    background-color: var(--negro) !important;
+} 
