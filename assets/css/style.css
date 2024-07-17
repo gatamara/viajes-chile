@@ -122,7 +122,9 @@ header{
 .text-footer{
     font-size: 1.5rem;
 }
-.container-icons-footer i{
+.container-icons-footer a i{
     font-size: 1.5rem;
     padding: 0 4px;
+    text-decoration: none;
+    color: #ffffff;
 }
