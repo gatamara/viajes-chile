@@ -58,7 +58,7 @@ code .
 
 ## Ver sitio web
 
-Para ver una demostracion del sitio web alojado en [Github Pages](https://pages.github.com/), puede visitar el siguiente [Desafio Viajes Chile](https://gatamara.github.io/desafio-final/)
+Para ver una demostracion del sitio web alojado en [Github Pages](https://pages.github.com/), puede visitar el siguiente [Desafio Viajes Chile](https://gatamara.github.io/viajes-chile/)
 
 ## Tecnologias utilizadas
 
