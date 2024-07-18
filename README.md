@@ -30,7 +30,7 @@ Se han aplicado dos o más componentes de Bootstrap JS, como el carrusel, los to
 Inicialización de GIT: Se ha inicializado GIT para versionar el proyecto localmente, realizando más de 5 commits a travez del proyecto.
 Creación de repositorio remoto en Github para el versionamiento del proyecto.
 Implementación de Github Pages: La página se ha publicado utilizando Github Pages para que esté accesible en línea.
-[Desafio Viajes Chile](https://gatamara.github.io/desafio-final/)
+[Desafio Viajes Chile](https://gatamara.github.io/viajes-chile/)
 
 
 
